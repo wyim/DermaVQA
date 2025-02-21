@@ -1,0 +1,702 @@
+[
+    {
+        "encounter_id": "11k2tzj",
+        "image_ids": [
+            "11k2tzj"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator1",
+                "content_en": "This is a case of skin tags. Skin tags are soft, skin-colored growths on the skin. They are very common and are usually small and harmless. Skin tags do not need to be removed, but if they're causing problems they can be removed using electrocautery, cryotherapy, laser surgery, or surgical excision.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "121olx7",
+        "image_ids": [
+            "121olx7"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator1",
+                "content_en": "It is a case of herpes zoster, a localized, blistering, and painful rash caused by the reactivation of varicella-zoster virus (VZV). Herpes zoster is also called shingles. Anyone who has had varicella (chickenpox) may subsequently develop herpes zoster. Herpes zoster often affects people with weak immunity. Rest and pain relief, Protective ointment applied to the rash, such as petroleum jelly and Oral antibiotics for secondary infection are recommended. Antiviral treatment can reduce pain and the duration of symptoms if started within one to three days after the onset of herpes zoster. Aciclovir 800 mg 5 times daily for seven days is most often prescribed. ",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11r7ku3",
+        "image_ids": [
+            "11r7ku3"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator1",
+                "content_en": "Some group of people has a genetic predisposition to these lines. It is more common in the dominant arm. Research studies are limited on this condition but the more fat that you carry on your arms, the more likely creases are to form on your skin. If you don’t want this crease, then first lose some body fat to rule out that cause. If the crease still persists, then you’ll know that they’re a permanent fixture on your arms due to your genetics. If they’re not causing you any pain or if they don’t look too abnormal for your liking , then you don't need to worry about them",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11b60q2",
+        "image_ids": [
+            "11b60q2"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator1",
+                "content_en": "It is a case of folliculitis, inflammation of the hair follicle. You can try washing and lightly scrubbing the area to encourage the hair to loosen from the follicle and exit the skin. Apply products containing tea tree oil to alleviate the infection and prevent it from getting worse, use oatmeal-based lotions to soothe irritated skin, and use over-the-counter hydrocortisone cream to relieve itching. Retinoid creams are effective in removing dead skin cells that may contribute to ingrown hairs. Don’t dig for the hair, as this increases the risk of causing or spreading an infection. Never pick or pop an infected ingrown hair, as this also increases the risk of complications. Instead, gently scrub the area with warm water and soap. This can help ease the ingrown hair out of the skin on its own. Preventing ingrown hairs can decrease your risk of related infections. When shaving or waxing, try the following tips: wash the skin first to help prevent bacteria from entering the skin, change your razor frequently and rinse it after every stroke, avoid dull blades, remove hair in the direction of growth, use shave gel and warm water, apply lotion to the area afterward, use an exfoliating scrub to remove dead skin cells.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11r53p2",
+        "image_ids": [
+            "11r53p2"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator1",
+                "content_en": "It is a case of postinflammatory hyperpigmentation, where the melanin content increases after trauma or inflammation. Many people use topical treatments to treat hyperpigmentation. You can try topical treatments containing ingredients that can lighten the skin such as azelaic acid, cysteamine cream, vitamin C, hydroquinone, corticosteroids, kojic acid, licorice, retinoids such as tretinoin, arbutin, glycolic acid peels, mequinol, niacinamide. Creams containing steroids and hydroquinone can take 3–6 months to affect the skin color. Always purchase products from a reputable source and follow the instructions on the pack. Cosmetic procedures can be also tried like laser therapy, intense pulsed light, and chemical peels. Avoid sun exposure.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "125ayna",
+        "image_ids": [
+            "125ayna"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator1",
+                "content_en": "It is a case of irritated skin. Apply a cold, wet cloth or ice pack to the skin that itches. Moisturize your skin. Always choose a moisturizer free of additives, fragrances and perfumes. While treating your skin, avoid scratching, as this will further irritate your skin and could increase your risk for a skin infection.\n",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "1208anx",
+        "image_ids": [
+            "1208anx"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator1",
+                "content_en": "You need to see a dermatologist for dermoscopic examination of this lesion and skin biopsy if needed. The dermoscopic examination is a useful adjunct for pigmented lesions to help identify worrisome pigment patterns. Regular self-examinations of your skin will help you detect a difference in a mole over time. An easy way to remember how to check your skin is to use the ABCDE technique to identify changes.\nAsymmetry - Each half of the mole is a different shape\nBorder - Look for spreading or irregular edges\nColour - A recent change or blotchy spots with many colours\nDiameter - spots are getting bigger \nEvolving - Changing or growing in size, shape or thickness. Check with your dermatologist if you noticed any change",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11viguw",
+        "image_ids": [
+            "11viguw"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator1",
+                "content_en": "This is a case of chicken pox and these lesions are chicken pox too. Chickenpox is a very contagious infection caused by the varicella-zoster virus. Press a cool, moist rag on the rash. Keep yourself cool and do not scratch. Trim your fingernails so you can't scratch. Put a lotion with antihistamines on the rash. These lotions are available at the drugstore. If you don't know what to buy, ask the pharmacist for help. Use an over-the-counter (OTC) form of antihistamine. Diphenhydramine (Benadryl®) and cetirizine (Zyrtec®) are two examples of OTC antihistamines. Take a cool bath or shower every day. You can also try an oatmeal bath. When you’re drying off, don’t rub with the towel. Pat your skin dry and use acetaminophen (such as Tylenol®) if needed. If your symptoms are severe, your healthcare provider might prescribe antiviral treatment like acyclovir.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11qvsw7",
+        "image_ids": [
+            "11qvsw7"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator1",
+                "content_en": "It is a case of Pityriasis versicolor, a common yeast infection of the skin, in which flaky discoloured patches appear on the chest and back. Pityriasis versicolor is more common in hot, humid climates than in cool, dry climates. It often affects people who perspire heavily. It may clear in the winter months and recur each summer. Although it is not considered infectious in the conventional sense, pityriasis versicolor sometimes affects more than one member of a family.Mild pityriasis versicolor is treated with topical antifungal agents. Selenium sulfide shampoo, Topical azole cream/shampoo (econazole, ketoconazole), Terbinafine gel. The medicine should be applied widely to the skin from the jawline down and left on the skin for 5-15 minutes before rinsing off in the shower. This should be done daily for one week then weekly for one month. Oral antifungal agents, itraconazole and fluconazole, are used to treat pityriasis versicolor when extensive or if topical agents have failed. Vigorous exercise an hour after taking the medication may help sweat it onto the skin surface, where it can effectively eradicate the yeast. Bathing should be avoided for a few hours. A few days treatment will clear many cases of pityriasis long term, or at least for several months. Reapplication of a topical treatment such as selenium sulfide shampoo every month once the rash has cleared will usually prevent recurrence.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11ucnrx",
+        "image_ids": [
+            "11ucnrx"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator1",
+                "content_en": "It is a case of insect bite reaction which is a self limiting immunological reaction to the bites of mosquitoes, fleas, bedbugs, and other insects. The spots remain for days to weeks and can leave postinflammatory pigmentation. Fleas and mites that live on cats and dogs are most often responsible. Wear protective clothing and apply insect repellents to exposed skin to prevent insect bites when outdoors. Insecticides can be used to rid the house. Seek veterinary advice regarding infested animal. Apply topical corticosteroid cream, calamine or menthol lotions and creams, and oral antihistamines are used in severe itching.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11wcl6m",
+        "image_ids": [
+            "11wcl6m"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator1",
+                "content_en": "If the massager is used directly on the skin and not through clothes, it's possible that a component of the massager or something it is cleaned with could be causing an allergic reaction or irritant contact dermatitis. Another reason for itchy skin could be a reaction to the massage oil or lotion being using on the skin. Try to eliminate aggravating factors. Reduce the frequency of bathing, ensure good hydration by drinking plenty of water, use lukewarm water not hot water, replace standard soap with a substitute such as a synthetic detergent cleanser, water-miscible emollient, bath oil, anti-pruritic tar oil, colloidal oatmeal etc., and apply an emollient liberally and often, particularly shortly after bathing, and when itchy. The drier the skin, the thicker this should be. Apply emollients frequently and avoid irritants. Use topical steroid cream twice daily for 2-4 weeks and oral antihistamines if needed.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11ke1kz",
+        "image_ids": [
+            "11ke1kz"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator1",
+                "content_en": "It is a case of eczema due to dry skin (xerosis). Dryness is commonly seen in people with atopic dermatitis. People exposed to a dry environment may experience dry skin, for example, low humidity in desert climates or cool windy conditions, excessive air conditioning, direct heat from a fire or fan heater, excessive bathing, contact with soap, laundry detergents and solvents, inappropriate topical agents such as alcohol, frictional irritation from rough clothing or abrasives. Try to eliminate aggravating factors. Reduce the frequency of bathing,  use a humidifier in winter and air conditioner in summer, compare having a short shower with a prolonged soak in a hot bath, ensure good hydration by drinking plenty of water, use lukewarm water not hot water, replace standard soap with a substitute such as a synthetic detergent cleanser, water-miscible emollient, bath oil, anti-pruritic tar oil, colloidal oatmeal etc., and apply an emollient liberally and often, particularly shortly after bathing, and when itchy. The drier the skin, the thicker this should be, especially on the hands. Apply emollients frequently and avoid irritants. Use topical steroid cream twice daily for 2-4 weeks and oral antihistamines if needed. I can also see Keratosis pilaris which is a harmless skin condition that causes dry, rough patches and tiny bumps, often on the upper arms, thighs, cheeks, or buttocks. Worsening occurs when seasonal changes cause low humidity and dry skin you can treat it with moisturizers and prescription creams to help improve how the skin looks. Creams to remove dead skin cells like creams containing alpha hydroxy acid, lactic acid, salicylic acid, or urea help loosen and remove dead skin cells. They also moisturize and soften dry skin. For best results, apply your moisturizer after every shower or bath, within 5 minutes of getting out of the bath or shower, while your skin is still damp. At least 2 or 3 times a day, gently massage it into the skin. You can also use topical retinoid creams to help unclog follicles and promote cell turnover. Some patients may need to apply a corticosteroid to the areas with keratosis pilaris. This medicine helps soften the bumps and reduce redness. Lasers may work when moisturizer and medicine fail. Using medicated cream regularly may improve how the skin looks. But if you stop, the condition returns. And even with treatment, keratosis pilaris might last for years.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "l6oanu",
+        "image_ids": [
+            "l6oanu"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator1",
+                "content_en": "It is a case of Aquagenic wrinkling of the palms, a rare condition characterized by transient oedematous skin of the palms after contact with water. It is an exaggeration of the normal finger wrinkling that occurs when fingers are soaked in water for a prolonged period. The cause of aquagenic wrinkling of the palms is unknown but is thought to relate to sweating. General measures to prevent direct exposure to water can be tried including barrier creams, gloves, and petroleum jelly, however, these are usually ineffective. An antiperspirant such as 20% aluminum chloride hexahydrate applied to the palms at night is the first-line treatment and can dramatically improve symptoms. Other treatments that can be tried include 15% aluminum chloride gel, Botulinum toxin to manage associated hyperhidrosis, and Topical steroids. Aquagenic wrinkling of the palms is a self-limiting condition and many patients are not bothered by the symptoms. However, it is strongly associated with cystic fibrosis, an inherited disorder that causes severe damage to the lungs, digestive system, and other organs in the body, and a diagnosis of aquagenic wrinkling should prompt an early workup for cystic fibrosis.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11hkjwl",
+        "image_ids": [
+            "11hkjwl"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator1",
+                "content_en": "It is a case of scalp psoriasis. Scalp psoriasis is a skin condition characterised by red, thickened, well-demarcated patches or plaques with overlying silvery-white scales, affecting part or all of the scalp. It may occur in isolation, or with any other form of psoriasis, and is typically a chronic, relapsing-remitting condition. Psoriasis, including scalp psoriasis, is thought to be caused and affected by a combination of genetic, immune, hormonal, and environmental factors. Usually, lotions, solutions, or gels are more suitable for the scalp than heavier products such as ointments. Most treatments will need to be used regularly for several weeks before a benefit is seen, and may have to be applied regularly to keep the scalp clear. Regular use of emollients and moisturizers such as scalp oils and avoiding known triggers where possible. Modifiable lifestyle factors such as maintaining a healthy weight, limiting alcohol intake, and smoking cessation. Avoiding picking or scratching the scalp, which can cause further damage. Some people find cutting their hair short helps control scalp psoriasis, likely as it makes treatments easier to apply. Topical medications like corticosteroids and topical vitamin D (Calcipotriol) are recommended as first-line treatment of mild-to-moderate scalp psoriasis and can also be used concomitantly with phototherapy and/or systemic therapies in moderate-to-severe cases. Salicylic acid shampoos can enhance the penetration of other topical treatments including corticosteroids. Ketoconazole, ciclopirox, zinc pyrithione, and other antifungal shampoos — effective for dandruff and seborrhoeic dermatitis; varying effect on sebopsoriasis and psoriasis.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11g2mcn",
+        "image_ids": [
+            "11g2mcn"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator1",
+                "content_en": "It is a case of common wart. This noncancerous growth appear when your skin is infected with one of the many viruses of the human papillomavirus (HPV) family. If you cut or damage your skin in some way, it's easier for the virus to take hold. That's why people with chronic skin conditions, such as eczema, or who bite their nails or pick at hangnails are prone to getting warts. Warts are highly contagious and are mainly passed by direct skin contact, such as when you pick at your warts and then touch another area of your body. You can also spread them with things like towels or razors that have touched a wart on your body or on someone else's. Most warts are harmless, and you don't need to do anything unless, of course, they're painful or embarrassing. Over-the-counter gels, liquids, and pads with salicylic acid work by peeling away the dead skin cells of the wart to gradually dissolve it. For better results, soak the wart in warm water, then gently sand it with a disposable emery board before you apply the product. Be sure to use a new emery board each time. Be patient, it can take several months. If you have diabetes or a weakened immune system, you should have a doctor take a look before you treat a wart yourself. Cryotherapy, immunotherapy, laser treatment and topical cantharidin are good therapeutic options. ",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "1227i7t",
+        "image_ids": [
+            "1227i7t"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator3",
+                "content_en": "This looks like it could be an inflammatory condition of the skin. You should be seen in person for a possible skin scraping, to make sure it's not a fungal infection, and possibly a biopsy. Other than a fungal infection, it could be hand eczema or a form of psoriasis. If it is hand eczema or psoriasis then a topical steroid would help. ",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11s86eg",
+        "image_ids": [
+            "11s86eg"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator3",
+                "content_en": "It is difficult to say just based on this photo; however, the most common things to occur on the scalp would be benign moles or pilar cysts. This could be either of those. If the spot has been changing, growing, bleeding, or causing issues then there is a small chance it could be a skin cancer and you should have it evaluated in person for a possible biopsy. ",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11l8369",
+        "image_ids": [
+            "11l8369"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator3",
+                "content_en": "It is difficult to say that this is or is not eczema just based on this photo. However, the appearance suggests it could be eczema and you may require a stronger steroid cream than the hydrocortisone you've been using. So, would recommend a stronger steroid cream and regular moisturization. If still not improving then it may be another entity and you should be seen by your doctor. ",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11maszn",
+        "image_ids": [
+            "11maszn"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator3",
+                "content_en": "It is difficult to say just based on this picture; however, this looks like it could be a vasculitis, or inflammation of the blood vessels around your skin. You should be seen by your doctor for a biopsy to see if it is a vasculitis or other inflammatory condition of the skin, so you can get a proper diagnosis and treatment.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11rnqkb",
+        "image_ids": [
+            "11rnqkb"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator3",
+                "content_en": "It is not clear based on just this picture what is going on with your arm. Because it is a single itchy spot, it is possible that you were bitten by something. It should not be a worry unless it grows much larger or other areas arise. You could try moisturizing with vaseline and use a topical steroid for a week to help it get better faster. ",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11mxu71",
+        "image_ids": [
+            "11mxu71"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator3",
+                "content_en": "If this is from an ant, then there is likely no need to worry. It looks like there may have been a bite and possibly a small blood blister or bruising. It does not look infected and should slowly improve on its own. If it is itchy, you could put a topical steroid on it to resolve faster. ",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11h8ydi",
+        "image_ids": [
+            "11h8ydi"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator3",
+                "content_en": "It is difficult to say what this is based on the picture. It does look like it could have been a bite, from trauma, or a small cyst. Antibiotic cream over the counter can sometimes irritate the skin worse, so I would stop using that for now. If it has been there for several weeks, then it may be a good idea to see a dermatologist to see if there is a small cyst that can be removed. Otherwise, it doesn't look immediately dangerous and should continue to fade over time. ",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11uf8md",
+        "image_ids": [
+            "11uf8md"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator3",
+                "content_en": "It is difficult to say just based on this picture and I would need additional history. It looks almost like it could be a bug bite reaction, or a reaction to something on your necklace if you have a separate decorative piece attached to the end. You could try a topical steroid for a couple of weeks and if it does not get better after that, or you develop more spots, then you should be seen in person.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11tuimv",
+        "image_ids": [
+            "11tuimv"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator3",
+                "content_en": "This is called longitudinal melanonychia. It can be caused by a mole under the nail, sun spot, trauma, pigment cell activation, or melanoma. You should be seen by a dermatologist for a possible biopsy given that this is on your thumb and that would be the most common place to have skin cancer under the nail (although still quite rare).",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "120noh0",
+        "image_ids": [
+            "120noh0"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator3",
+                "content_en": "Scar treatment can involve many different modalities to be done by a doctor. These involve skin destruction and scar remodeling and could include surgical scar revision, electrosurgery, lasers, or dermabrasion.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11q2v3y",
+        "image_ids": [
+            "11q2v3y"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator3",
+                "content_en": "This does look like it could be a pimple type of process. For a larger spot like this, it may be called a furuncle. However, if you start to develop many of these or have involvement of the groin, armpits, or under breasts then it could be hidradenitis suppurativa. You could start off with an antibacterial wash or ointment, but if you're having increased redness, warmth, fevers, or chills then you may need an oral antibiotic.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11ysl6s",
+        "image_ids": [
+            "11ysl6s"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator2",
+                "content_en": "Get your ear checked for any discharge. If you have dandruff seek treatment for it. Avoid hair color. Apply moisturiser at regular intervals. Continue with the combination cream you are already using; always taper it when you stop it and never stop abruptly. Apply it twice daily for 1 week, then make it once daily for 1 week, then twice per week, then stop.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11xifko",
+        "image_ids": [
+            "11xifko"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator2",
+                "content_en": "This is hand eczema. I am adding a cream for the same to be applied twice daily for 3 weeks. Use mild handwash, apply moisturizer multiple times, and avoid direct contact with irritants- detergents, vegetables like onion, tomato, dyes, and hand sanitizer.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "fqbnn9",
+        "image_ids": [
+            "fqbnn9"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator2",
+                "content_en": "This growth on the scalp is known as nevus sebaceous. It mostly appears around puberty and can grow. You can get it excised and send it for examination.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11pxgf2",
+        "image_ids": [
+            "11pxgf2"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator2",
+                "content_en": "It looks like a fungal infection. I have added a capsule to be taken once daily for 2 weeks, a cream to be applied twice daily for a month and an antihistamine to be taken for itching on an SOS basis. Keep it clean. You can use antifungal shampoo also 2-3 times per week.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "124va3t",
+        "image_ids": [
+            "124va3t"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator2",
+                "content_en": "There is excessive dryness which has led to eczema. Use mild soap and moisturizer at regular intervals. I am adding a cream for faster healing to be applied twice daily for 3 weeks. You can take antihistamine on an as needed basis. Wear cotton clothes.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11nr7q9",
+        "image_ids": [
+            "11nr7q9"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator2",
+                "content_en": "It doesn't look like melanoma at all. It looks more like an atypical mole. Just keep observing it. You can get handheld microscopic examination done.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11nt5as",
+        "image_ids": [
+            "11nt5as"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator2",
+                "content_en": "It doesn’t look like a mole. It is seborrheic keratosis. It occurs with age. You can get it removed. It's not communicable. Don’t scratch it.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "117kiax",
+        "image_ids": [
+            "117kiax"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator2",
+                "content_en": "This is eczema over face, though there are few other possibilities too. KOH examination can be done. Always use a good moisturiser and sunscreen. I am starting a cream for eczema. Apply the cream twice daily for 5 days then continue to apply it once daily for 10 days. Take antihistamine on a PRN basis.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11fljh3",
+        "image_ids": [
+            "11fljh3"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator2",
+                "content_en": "This is a fungal infection. Adding antifungals. Take tab one dose stat and apply the cream twice daily for 3 weeks. Color will take a few months to come back to normal. Keep it dry.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11c2vj5",
+        "image_ids": [
+            "11c2vj5"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator2",
+                "content_en": "The fingers are erythematous and swollen, and this is getting aggravated with cold. So you need to keep your fingers warm, avoid cold, and wear gloves. I am adding a cream to reduce the inflammation. Apply the cream twice daily until it heals. If still, it persists oral medication can be started once daily.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "12656ip",
+        "image_ids": [
+            "12656ip"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator2",
+                "content_en": "It's just extensive dryness. Apply moisturizer. I am adding a cream to be applied twice daily for 2 weeks if it still persists. Use mild soap. Wear cotton. Avoid irritants. Apply sunscreen.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11nf6xa",
+        "image_ids": [
+            "11nf6xa"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator2",
+                "content_en": "It's not infected as of now. Just keep it clean by washing with mild soap and water. Keep it dry. Apply antibiotic cream in it twice daily. Keep it open, if you are going outside then cover it. There is eczema surrounding the ulcer. Adding cream for that too- again to be applied twice daily for 2 weeks. Keep the surrounding area moisturized. Avoid scratching. Avoid betadine application if doing. Restrict knee movement.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "122byja",
+        "image_ids": [
+            "122byja"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator2",
+                "content_en": "Dryness, peeling, and eczema are known side effects of Accutane. Use a mild soap and keep on moisturising with a good moisturiser at regular intervals.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11nibdd",
+        "image_ids": [
+            "11nibdd"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator2",
+                "content_en": "It could be a reaction to some irritant or a burn. Just keep it clean. I am adding a cream for faster healing. Apply the cream twice daily for 2 weeks",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11g6dmx",
+        "image_ids": [
+            "11g6dmx"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator2",
+                "content_en": "I am adding a cream to be applied at night for 6 weeks. The cream will cause slow and gradual exfoliation so that the scarred skin merges with normal skin. Since the scar is not too deep, you can get good results. Make sure to apply sunscreen in the morning.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11lggx0",
+        "image_ids": [
+            "11lggx0"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator2",
+                "content_en": "This is a type of eczema which is getting aggravated by itching. So please don’t scratch the area. Avoid friction via socks and shoes. I am adding a cream which will help. Apply the cream twice daily till it heals. Also apply lots of moisturiser. You can take antihistamine on PRN basis.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11q4shr",
+        "image_ids": [
+            "11q4shr"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator2",
+                "content_en": "This looks like some insect bite or unspecified erythema. Just keep on observing it and I am adding a cream to let it heal faster. Apply the cream twice daily till it heals. Apply sunscreen.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "120d3wg",
+        "image_ids": [
+            "120d3wg"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator2",
+                "content_en": "Your lips are dry. You should experience burning sensation and fluid filled lesions over one area in case of herpes. This darkening can be genetic or can be due to dryness. It can be due to nutrional deficiences too so get your Hb and vitamin B12 levels checked. The few individual dark spots can be freckles too. Moisturise your lips.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11jnh7e",
+        "image_ids": [
+            "11jnh7e"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator2",
+                "content_en": "This is acne. I have added a spray to be used at night. Along with it is a tablet to be used thrice in week for 1.5 months. Don’t scratch the lesions. You can wash with anti-acne soap or body wash containing salicylic acid or benzoyl peroxide.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11qvwf7",
+        "image_ids": [
+            "11qvwf7"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator2",
+                "content_en": "It looks like a cherry angioma. It is harmless. You can get it removed if you want. Otherwise, no active intervention is required. Itching can be probably on the scalp. Avoid giving it a trauma.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11twmux",
+        "image_ids": [
+            "11twmux"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator2",
+                "content_en": "This is a bruise. It has developed secondary to excessive itching. Blood has leaked into the skin. So avoid scratching. You can take antihistamines on an SOS basis.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11qxurl",
+        "image_ids": [
+            "11qxurl"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator2",
+                "content_en": "It's acne only. Though, I need a clear picture. Use glycolic acid based face wash, oil-free moisturizer. I am adding a cream to be used at night over pimples only for a month. Then review.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11pg7qz",
+        "image_ids": [
+            "11pg7qz"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator2",
+                "content_en": "This is a fungal infection of the nail. Start with a capsule to be taken twice daily for a week/month for 3 months and a lotion to be applied twice daily. Keep cutting the nail.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    },
+    {
+        "encounter_id": "11rr5qw",
+        "image_ids": [
+            "11rr5qw"
+        ],
+        "responses": [
+            {
+                "author_id": "annotator2",
+                "content_en": "This is a viral infection. Since the lesions are still active, I am adding systemic antivirals to be taken 5 times a day for 5 days. Avoid touching the lesion to prevent the spread to other body parts and to others. Drink plenty of water. You can take a painkiller on an as needed basis.",
+                "completeness": 1,
+                "contains_freq_ans": 1
+            }
+        ]
+    }
+]
