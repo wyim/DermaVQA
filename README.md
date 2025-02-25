@@ -152,6 +152,8 @@ https://github.com/wyim/MEDIQA-M3G-2024
 
 - **MEDCON** for medical concept and assertion evaluation. QUICKUMLS is used to identify concepts (https://github.com/Georgetown-IR-Lab/QuickUMLS), assertion classification is obtained using an in-house llama classifier for English and gpt4 for Chinese. The assertion models are not released, please approximate using your own classifiers. Evaluation scripts are found in evaluation/medcon.
 
+For models and code related to the MICCAI paper please visit this repo:
+https://github.com/velvinnn/DermaVQA
 
 # Contact
  MEDIQA-NLP mailing list: https://groups.google.com/g/mediqa-nlp 
